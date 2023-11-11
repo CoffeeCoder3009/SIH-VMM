@@ -1,0 +1,12 @@
+@This is a comment
+
+date-created = 2023-11-4 23:40:15
+last-modified =  2023-11-4 23:50:15
+home-directory = C:\Users\Asus\Downloads\ARM_Build
+
+
+config-file=a.hwk
+project-name = First_Project
+directories=[mag-res,abc]
+mag-res=[abe.txt,abx.csv,ab.png]
+
